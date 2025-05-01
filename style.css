@@ -21,7 +21,7 @@ img {
 }
 
 p {
-  background: black;
+  background: Light blue;
 }
 
 h1, h2, h3 {
@@ -49,17 +49,17 @@ ul, ol {
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: light blue;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #aa04a2;
-  color: white;
+  color: black;
 }
 
 #bio {
-  background: black;
+  background: light blue;
   margin: 0px;
   padding: 10px;
   text-align: center;
